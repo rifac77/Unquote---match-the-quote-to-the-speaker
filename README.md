@@ -1,0 +1,2 @@
+# Unquote
+This capstone project was created as the culmination of the Build Basic Android Apps with Java course from codecademy.com. The intent of the app is to help older or more vulnerable people learn to recognize that not every attributed quote they see online is actually from the said person or picture. To run, download the code and open in Android Studios having already enabled virtualization on your cpu in the BIOS if running AMD (SVM option on MSI board).
